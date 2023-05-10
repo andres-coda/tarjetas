@@ -39,6 +39,8 @@ h1{
 .tarjeta img {
     border-radius: 10px;
     margin-right: 1rem;
+    border:1px solid black;
+    box-shadow: 2px 2px 4px rgb(41, 41, 38);
 }
 
 .tarjeta h2 {
